@@ -1,19 +1,19 @@
 ---
 layout: archive
 title: ""
-date:
-permalink: /articles/ 
+permalink: /prior-to-beginning/
+date: 
 modified:
 excerpt:
 image:
   feature:
-  teaser: 
-  thumb: 
+  teaser:
+  thumb:
 ads: false
 ---
 
 <div class="tiles">
-{% for post in site.categories.articles %}
+{% for post in site.categories.beginning %}
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->

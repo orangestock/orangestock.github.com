@@ -7,8 +7,8 @@ modified:
 excerpt:
 image:
   feature:
-  teaser:
-  thumb:
+  teaser: 
+  thumb: 
 ads: false
 ---
 

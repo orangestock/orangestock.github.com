@@ -1,0 +1,64 @@
+---
+layout: default
+---
+
+<div id="main" role="main">			
+	<div class="wrap">
+		{% if page.image.feature %}
+		<div class="page-feature">
+			<div class="page-image">
+				<img src="{{ site.url }}/images/{{ page.image.feature }}" class="page-feature-image" alt="{{ page.title }}">
+				{% if page.image.credit %}{% include image-credit.html %}{% endif %}
+			</div><!-- /.page-image -->
+		</div><!-- /.page-feature -->
+		{% endif %}
+		<div class="page-title">
+			<h1>{{ page.title }}</h1>
+			{% if page.excerpt %}<h2>{{ page.excerpt }}</h2>{% endif %}
+		</div>
+		<div class="archive-wrap">
+			<div class="page-content">
+				{{ content }}
+			</div><!-- /.page-content -->
+		</div class="archive-wrap"><!-- /.archive-wrap -->
+	</div><!-- /.wrap -->
+</div><!-- /#main -->
+<div id="js-menu-screen" class="menu-screen"></div>
+<div class="page-lead" style="background-image:url(https://github.com/orangestock/orangestock.github.com/blob/master/images/main.jpg?raw=true)">
+      <div class="wrap page-lead-content">
+        <h1>Orange Stock</h1>
+        <h2>한기대 주식블로그 OrangeStock에 오신걸 환영합니다!</h2>
+        <a href="//orangestock.github.io/prior-to-beginnig/" class="btn-inverse">Start learing OrangeStock</a> &nbsp; or &nbsp; <a href="https://github.com/orangestock/orangestock.github.com" class="btn-inverse">View on GitHub</a>
+      </div><!-- /.page-lead-content -->
+    </div>
+
+    <div id="page-wrapper">
+      <div id="main" role="main">
+<div class="wrap">
+<div class="page-content">
+              <div class="tiles">
+
+<div class="tile">
+  <h2 class="post-title">Built for Jekyll 2</h2>
+  <p class="post-excerpt">Takes advantage of native Sass support and data files to make customizing your site easier.</p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <h2 class="post-title">Content First</h2>
+  <p class="post-excerpt">Designed to put the focus on you and your writing. Headers, navigation, sidebars, and footers have been purposely deemphasized.</p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <h2 class="post-title">Customizable</h2>
+  <p class="post-excerpt">Packed with layouts and modules. Include Disqus comments, social sharing buttons, and table of contents on one or all pages.</p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <h2 class="post-title">Extensible</h2>
+  <p class="post-excerpt">Compatible with popular libraries like <a href="http://bourbon.io">Bourbon</a>, <a href="http://neat.bourbon.io/">Neat</a>, and <a href="http://github.com/octopress/octopress">Octopress</a> to help build and deploy your site with ease.</p>
+</div><!-- /.tile -->
+
+</div>
+<!-- /.tiles -->
+
+            </div>

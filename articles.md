@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: archive
 title: ""
 date:
 permalink: /articles/ 
@@ -12,3 +12,8 @@ image:
 ads: false
 ---
 
+<div class="tiles">
+{% for post in site.posts %}
+  {% include post-grid.html %}
+{% endfor %}
+</div><!-- /.tiles -->

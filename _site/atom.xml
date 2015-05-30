@@ -7,7 +7,7 @@
   <subtitle>How to invest in stocks</subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="/" rel="alternate" type="text/html"/>
-  <updated>2015-05-31T01:56:45+09:00</updated>
+  <updated>2015-05-31T02:32:49+09:00</updated>
   <id>/</id>
   <author>
     <name></name>
@@ -17,133 +17,10 @@
 
   
   <entry>
-    <title>주식에서 캔들</title>
-    <link href="/%EC%A3%BC%EC%8B%9D%EC%97%90%EC%84%9C%20%EC%BA%94%EB%93%A4/"/>
-    <updated>2015-05-29T00:00:00+09:00</updated>
-    <id>/주식에서 캔들</id>
-    <author>
-      <name></name>
-      <uri>/</uri>
-      
-    </author>
-    <content type="html">
-      
-      &lt;h1 id=&quot;section&quot;&gt;캔들&lt;/h1&gt;
-
-&lt;p&gt;주식에서는 일반적으로 일봉(하루동안 변화를 캔들로 나타낸 것)으로 이전까지의 주식 가격이 변해 왔나 표현을 해줍니다. 일봉 캔들을 보는법은 다음과 같습니다.
-&lt;img src=&quot;http://postfiles15.naver.net/20100927_94/petsim_1285592796401b09NG_JPEG/1.jpg?type=w2&quot; alt=&quot;캔들&quot; /&gt;&lt;/p&gt;
-
-    </content>
-  </entry>
-  
-  <entry>
-    <title>초보 주식 용어</title>
-    <link href="/%EC%B4%88%EB%B3%B4%20%EC%A3%BC%EC%8B%9D%20%EC%9A%A9%EC%96%B4/"/>
-    <updated>2015-05-28T00:00:00+09:00</updated>
-    <id>/초보 주식 용어</id>
-    <author>
-      <name></name>
-      <uri>/</uri>
-      
-    </author>
-    <content type="html">
-      
-      &lt;h1 id=&quot;section&quot;&gt;초보 주식 용어 설명&lt;/h1&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://cfile5.uf.tistory.com/image/2456CF3D53CE050A073E3E&quot; alt=&quot;초보 주식 용어&quot; /&gt;&lt;/p&gt;
-
-    </content>
-  </entry>
-  
-  <entry>
-    <title>주식이란?</title>
-    <link href="/%EC%A3%BC%EC%8B%9D%EC%9D%B4%EB%9E%80%3F/"/>
-    <updated>2015-05-28T00:00:00+09:00</updated>
-    <id>/주식이란?</id>
-    <author>
-      <name></name>
-      <uri>/</uri>
-      
-    </author>
-    <content type="html">
-      
-      &lt;h1 id=&quot;section&quot;&gt;주식이란?&lt;/h1&gt;
-
-&lt;p&gt;간단하게 &lt;strong&gt;주식&lt;/strong&gt;이란 회사가 자본을 만들기 위해 회사의 권리 일부를 주는 단위입니다.&lt;br /&gt;
-즉, 주주들은 보유한주식수/회사가 발행한 주식수 만큼 회사에 권리를 행사 할 수 있다는 말 입니다.&lt;/p&gt;
-
-
-    </content>
-  </entry>
-  
-  <entry>
-    <title>주식거래를 하려면?</title>
-    <link href="/%EC%A3%BC%EC%8B%9D%EA%B1%B0%EB%9E%98%EB%A5%BC%20%ED%95%98%EB%A0%A4%EB%A9%B4%3F/"/>
-    <updated>2015-05-28T00:00:00+09:00</updated>
-    <id>/주식거래를 하려면?</id>
-    <author>
-      <name></name>
-      <uri>/</uri>
-      
-    </author>
-    <content type="html">
-      
-      &lt;h1 id=&quot;section&quot;&gt;주식 거래를 하려면..&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;주식시장은 일반적으로 평일 09:00 ~ 15:00 입니다. 15:30 ~18:00 까지는 시간외 거래라고 폐장시간 이후의 거래 입니다.  이러한 시간에 거래를 할 수 없으면 예약거래를 이용해 주식거래를 할 수 있습니다.  &lt;/li&gt;
-  &lt;li&gt;주식을 거래를 하려면 먼저 증권계좌가 필요합니다. 이 증권계좌에 있는 돈을 통해 주식을 살 수 있게 되고, 또 주식을 팔아서 돈을 은행 계좌로 가져올 수 있게 됩니다. 증권계좌는 은행에 가서 만드시면 됩니다.&lt;/li&gt;
-  &lt;li&gt;저는 증권계좌를 키움증권으로 쓰기 때문에 이 블로그에서 제가 설명할 hts는 키움증권 회사에서 만든 영웅문이라는 프로그램 입니다. &lt;/li&gt;
-&lt;/ul&gt;
-
-    </content>
-  </entry>
-  
-  <entry>
-    <title>영웅문 다운</title>
-    <link href="/%EC%98%81%EC%9B%85%EB%AC%B8%20%EB%8B%A4%EC%9A%B4/"/>
-    <updated>2015-05-28T00:00:00+09:00</updated>
-    <id>/영웅문 다운</id>
-    <author>
-      <name></name>
-      <uri>/</uri>
-      
-    </author>
-    <content type="html">
-      
-      &lt;h1 id=&quot;section&quot;&gt;영웅문 설치&lt;/h1&gt;
-
-&lt;p&gt;키움증권 hts프로그램인 영웅문을 설치하려면 아래의 링크를 타고 들어갑니다.&lt;br /&gt;
-&lt;a href=&quot;http://www.kiwoom.com/nkw.template.do?m=m1400000000&amp;amp;NVKWD=%ED%82%A4%EC%9B%80%EC%A6%9D%EA%B6%8C+%EC%98%81%EC%9B%85%EB%AC%B8&amp;amp;NVADKWD=%ED%82%A4%EC%9B%80%EC%A6%9D%EA%B6%8C%EC%98%81%EC%9B%85%EB%AC%B8&amp;amp;NVAR=PL&amp;amp;NVADID=126191665+0EK1000HxkjjF3ya00-y&quot;&gt;http://www.kiwoom.com/nkw.template.do?m=m1400000000&amp;amp;NVKWD=%ED%82%A4%EC%9B%80%EC%A6%9D%EA%B6%8C+%EC%98%81%EC%9B%85%EB%AC%B8&amp;amp;NVADKWD=%ED%82%A4%EC%9B%80%EC%A6%9D%EA%B6%8C%EC%98%81%EC%9B%85%EB%AC%B8&amp;amp;NVAR=PL&amp;amp;NVADID=126191665+0EK1000HxkjjF3ya00-y&lt;/a&gt;&lt;/p&gt;
-
-    </content>
-  </entry>
-  
-  <entry>
-    <title>기본 차트</title>
-    <link href="/%EA%B8%B0%EB%B3%B8%20%EC%B0%A8%ED%8A%B8/"/>
-    <updated>2015-05-28T00:00:00+09:00</updated>
-    <id>/기본 차트</id>
-    <author>
-      <name></name>
-      <uri>/</uri>
-      
-    </author>
-    <content type="html">
-      
-      &lt;h1 id=&quot;section&quot;&gt;기본 차트&lt;/h1&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://cfile214.uf.daum.net/image/232CFE49525D416C393D97&quot; alt=&quot;기본차트&quot; /&gt;&lt;/p&gt;
-
-
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Hts 배우기</title>
-    <link href="/articles/hts-%EB%B0%B0%EC%9A%B0%EA%B8%B0/"/>
-    <updated>2015-05-28T00:00:00+09:00</updated>
-    <id>/articles/hts-배우기</id>
+    <title>HTS 배우기</title>
+    <link href="/articles/hts/"/>
+    <updated>2015-05-31T02:22:49+09:00</updated>
+    <id>/articles/hts</id>
     <author>
       <name></name>
       <uri>/</uri>

@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title>OrangeStock</title>
-  <generator uri="https://github.com/jekyll/jekyll">Jekyll v2.4.0</generator>
+  <generator uri="https://github.com/jekyll/jekyll">Jekyll v2.5.3</generator>
     <icon>/apple-touch-icon-precomposed.png</icon>
   <subtitle>How to invest in Stocks</subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="/" rel="alternate" type="text/html"/>
-  <updated>2015-05-30T21:14:14+09:00</updated>
+  <updated>2015-05-30T23:20:16+09:00</updated>
   <id>/</id>
   <author>
     <name></name>
@@ -17,10 +17,10 @@
 
   
   <entry>
-    <title>New Post4</title>
-    <link href="/new-post4/"/>
-    <updated>2015-05-28T00:00:00+09:00</updated>
-    <id>/new-post4</id>
+    <title>주식에서 캔들</title>
+    <link href="/%EC%A3%BC%EC%8B%9D%EC%97%90%EC%84%9C%20%EC%BA%94%EB%93%A4/"/>
+    <updated>2015-05-29T00:00:00+09:00</updated>
+    <id>/주식에서 캔들</id>
     <author>
       <name></name>
       <uri>/</uri>
@@ -28,33 +28,19 @@
     </author>
     <content type="html">
       
-      
+      &lt;h1 id=&quot;section&quot;&gt;캔들&lt;/h1&gt;
+
+&lt;p&gt;주식에서는 일반적으로 일봉(하루동안 변화를 캔들로 나타낸 것)으로 이전까지의 주식 가격이 변해 왔나 표현을 해줍니다. 일봉 캔들을 보는법은 다음과 같습니다.
+&lt;img src=&quot;http://postfiles15.naver.net/20100927_94/petsim_1285592796401b09NG_JPEG/1.jpg?type=w2&quot; alt=&quot;캔들&quot; /&gt;&lt;/p&gt;
 
     </content>
   </entry>
   
   <entry>
-    <title>New Post3</title>
-    <link href="/new-post3/"/>
+    <title>초보 주식 용어</title>
+    <link href="/%EC%B4%88%EB%B3%B4%20%EC%A3%BC%EC%8B%9D%20%EC%9A%A9%EC%96%B4/"/>
     <updated>2015-05-28T00:00:00+09:00</updated>
-    <id>/new-post3</id>
-    <author>
-      <name></name>
-      <uri>/</uri>
-      
-    </author>
-    <content type="html">
-      
-      
-
-    </content>
-  </entry>
-  
-  <entry>
-    <title>New Post2</title>
-    <link href="/new-post2/"/>
-    <updated>2015-05-28T00:00:00+09:00</updated>
-    <id>/new-post2</id>
+    <id>/초보 주식 용어</id>
     <author>
       <name></name>
       <uri>/</uri>
@@ -70,10 +56,10 @@
   </entry>
   
   <entry>
-    <title>What is stock</title>
-    <link href="/What%20is%20Stock/"/>
+    <title>주식이란?</title>
+    <link href="/%EC%A3%BC%EC%8B%9D%EC%9D%B4%EB%9E%80%3F/"/>
     <updated>2015-05-28T00:00:00+09:00</updated>
-    <id>/What is Stock</id>
+    <id>/주식이란?</id>
     <author>
       <name></name>
       <uri>/</uri>
@@ -83,9 +69,146 @@
       
       &lt;h1 id=&quot;section&quot;&gt;주식이란?&lt;/h1&gt;
 
-&lt;p&gt;간단하게 &lt;strong&gt;주식&lt;/strong&gt; 이란 회사가 자본을 만들기 위해 회사의 권리 일부를 주는 단위입니다.&lt;/p&gt;
+&lt;p&gt;간단하게 &lt;strong&gt;주식&lt;/strong&gt;이란 회사가 자본을 만들기 위해 회사의 권리 일부를 주는 단위입니다.&lt;br /&gt;
+즉, 주주들은 보유한주식수/회사가 발행한 주식수 만큼 회사에 권리를 행사 할 수 있다는 말 입니다.&lt;/p&gt;
 
-&lt;p&gt;즉 주주들은 보유한주식수/회사가 발행한 주식수 만큼 회사에 권리를 행사 할 수 있다는 말 입니다.&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>주식거래를 하려면?</title>
+    <link href="/%EC%A3%BC%EC%8B%9D%EA%B1%B0%EB%9E%98%EB%A5%BC%20%ED%95%98%EB%A0%A4%EB%A9%B4%3F/"/>
+    <updated>2015-05-28T00:00:00+09:00</updated>
+    <id>/주식거래를 하려면?</id>
+    <author>
+      <name></name>
+      <uri>/</uri>
+      
+    </author>
+    <content type="html">
+      
+      &lt;h1 id=&quot;section&quot;&gt;주식 거래를 하려면..&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;주식시장은 일반적으로 평일 09:00 ~ 15:00 입니다. 15:30 ~18:00 까지는 시간외 거래라고 폐장시간 이후의 거래 입니다.  이러한 시간에 거래를 할 수 없으면 예약거래를 이용해 주식거래를 할 수 있습니다.&lt;/li&gt;
+  &lt;li&gt;주식을 거래를 하려면 먼저 증권계좌가 필요합니다. 이 증권계좌에 있는 돈을 통해 주식을 살 수 있게 되고, 또 주식을 팔아서 돈을 은행 계좌로 가져올 수 있게 됩니다. 증권계좌는 은행에 가서 만드시면 됩니다.&lt;/li&gt;
+  &lt;li&gt;저는 증권계좌를 키움증권으로 쓰기 때문에 이 블로그에서 제가 설명할 hts는 키움증권 회사에서 만든 영웅문이라는 프로그램 입니다.&lt;/li&gt;
+&lt;/ul&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>영웅문 다운</title>
+    <link href="/%EC%98%81%EC%9B%85%EB%AC%B8%20%EB%8B%A4%EC%9A%B4/"/>
+    <updated>2015-05-28T00:00:00+09:00</updated>
+    <id>/영웅문 다운</id>
+    <author>
+      <name></name>
+      <uri>/</uri>
+      
+    </author>
+    <content type="html">
+      
+      &lt;h1 id=&quot;section&quot;&gt;영웅문 설치&lt;/h1&gt;
+
+&lt;p&gt;키움증권 hts프로그램인 영웅문을 설치하려면 아래의 링크를 타고 들어갑니다.
+&lt;a href=&quot;http://www.kiwoom.com/nkw.template.do?m=m1400000000&amp;amp;NVKWD=%ED%82%A4%EC%9B%80%EC%A6%9D%EA%B6%8C+%EC%98%81%EC%9B%85%EB%AC%B8&amp;amp;NVADKWD=%ED%82%A4%EC%9B%80%EC%A6%9D%EA%B6%8C%EC%98%81%EC%9B%85%EB%AC%B8&amp;amp;NVAR=PL&amp;amp;NVADID=126191665+0EK1000HxkjjF3ya00-y&quot;&gt;http://www.kiwoom.com/nkw.template.do?m=m1400000000&amp;amp;NVKWD=%ED%82%A4%EC%9B%80%EC%A6%9D%EA%B6%8C+%EC%98%81%EC%9B%85%EB%AC%B8&amp;amp;NVADKWD=%ED%82%A4%EC%9B%80%EC%A6%9D%EA%B6%8C%EC%98%81%EC%9B%85%EB%AC%B8&amp;amp;NVAR=PL&amp;amp;NVADID=126191665+0EK1000HxkjjF3ya00-y&lt;/a&gt;&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>기본 차트</title>
+    <link href="/%EA%B8%B0%EB%B3%B8%20%EC%B0%A8%ED%8A%B8/"/>
+    <updated>2015-05-28T00:00:00+09:00</updated>
+    <id>/기본 차트</id>
+    <author>
+      <name></name>
+      <uri>/</uri>
+      
+    </author>
+    <content type="html">
+      
+      &lt;h1 id=&quot;section&quot;&gt;기본 차트&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cfile214.uf.daum.net/image/232CFE49525D416C393D97&quot; alt=&quot;기본차트&quot; /&gt;&lt;/p&gt;
+
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Hts 배우기</title>
+    <link href="/hts%20%EB%B0%B0%EC%9A%B0%EA%B8%B0/"/>
+    <updated>2015-05-28T00:00:00+09:00</updated>
+    <id>/hts 배우기</id>
+    <author>
+      <name></name>
+      <uri>/</uri>
+      
+    </author>
+    <content type="html">
+      
+      &lt;h1 id=&quot;hts-&quot;&gt;HTS 배우기&lt;/h1&gt;
+
+&lt;h2 id=&quot;section&quot;&gt;미수설정&lt;/h2&gt;
+&lt;p&gt;미수란 은행에 돈을 빌려 주식을 거래하고나서 특정기간내에 증권계좌에 미수 이율만큼 돈을 넣어야합니다.&lt;br /&gt;
+일종의 &lt;strong&gt;대출&lt;/strong&gt; 이라고 생각하시면됩니다.&lt;br /&gt;
+아무 설정 없이 거래를 할 경우 미수가 자동으로 체크 되기때문에 초보자들은 미수를 쓰는 경우가 많습니다.&lt;br /&gt;
+이 기능은 초보자들에게는 적합하지 않다고 판단하여서 미리 미수를 못 쓰게 설정하는 방법을 알려 드리겠습니다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://postfiles3.naver.net/20150527_82/ktos5427_1432716644322YHIEk_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2015-05-13_%BF%C0%C0%FC_11.28.10.png?type=w3&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cfile206.uf.daum.net/image/135D714E503DA0EB024FA9&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;section-1&quot;&gt;은행계좌와 증권계좌연동&lt;/h2&gt;
+
+&lt;p&gt;이 기능을 통해 은행계좌와 증권계좌의 간에 자유로운 입출금이 가능합니다.&lt;br /&gt;
+주식을 사기위해서는 돈을 증권계좌로 입금을 해야겠죠?&lt;br /&gt;
+hts에서는 은행계좌에서 증권계좌로 입출금을 할수있습니다.&lt;br /&gt;
+방법은 다음과 같습니다.&lt;br /&gt;
+상단 메뉴 - 온라인업무 - [0801]은행이체입출금 화면에 들어갑니다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://kinimage.naver.net/storage/upload/2008/10/13/32642281_1224462884.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;좌측의 증권계좌번호를 선택하신 후 비밀번호를 입력하시고&lt;/li&gt;
+  &lt;li&gt;중간의 은행계좌조회를 누르시면 우측의 은행계좌에 은행계좌번호가 생성됩니다.&lt;/li&gt;
+  &lt;li&gt;은행계좌의 비밀번호란에 은행통장 비밀번호를 입력하시고&lt;/li&gt;
+  &lt;li&gt;중간의 이체금액란에 이체하실 금액을 입력하신 후&lt;/li&gt;
+  &lt;li&gt;중간의 이체금액란 밑의 » 를 클릭하시면 은행계좌로 이체가 완료됩니다.수수료는 없습니다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;당사 은행이체 가능시간은 오전 7:20~오후 4:30, 오후 5:00 ~9:00 시 입니다&lt;/p&gt;
+
+&lt;h2 id=&quot;section-2&quot;&gt;호가창 보기&lt;/h2&gt;
+&lt;p&gt;메뉴-&amp;gt;주식-&amp;gt;키움현재가&lt;br /&gt;
+&lt;img src=&quot;http://postfiles15.naver.net/20150527_142/ktos5427_1432716644548X0csY_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2015-05-13_%BF%C0%C8%C4_12.38.18.png?type=w3&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;특정 종목의 코드를 입력 하면 해당하는 종목의 호가창이 나옵니다.(이쪽에서 코드 입력말고 기업을 검색하셔도 상관없습니다.)&lt;/li&gt;
+  &lt;li&gt;기업명이 나오게 됩니다.(쌍방울이라는 기업)&lt;/li&gt;
+  &lt;li&gt;가격에 따른 매도 매물 입니다.&lt;/li&gt;
+  &lt;li&gt;가격에 따른 매수 매물 입니다.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;section-3&quot;&gt;매수 및 매도방법&lt;/h2&gt;
+
+&lt;p&gt;메뉴-&amp;gt;주식-&amp;gt;키움주문&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cfile4.uf.tistory.com/image/2244A63A52F507A724EBF3&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+키움주문 화면을 띄우면 위와 같이  화면이 나타나는데 “수량”과 “가격”을 입력하고 “현금매수” 버튼을 누르면 주문을 할 수 있습니다.  매도도 매수와 같은 방식으로 주문 해주시면 됩니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;section-4&quot;&gt;모의투자&lt;/h2&gt;
+
+&lt;p&gt;모의투자같은경우에는 가상의 돈으로 주식 거래를 할수 있게 됩니다.&lt;br /&gt;
+즉 주식 게임이라고 생각 하시면 됩니다.&lt;br /&gt;
+&lt;strong&gt;모의투자 하는 방법&lt;/strong&gt; : &lt;a href=&quot;http://plus-life.tistory.com/33&quot;&gt;http://plus-life.tistory.com/33&lt;/a&gt;&lt;br /&gt;
+위의 사이트대로 모의투자를 신청하고 hts를 모의투자로 로그인을 하게되면&lt;br /&gt;
+신청할 때 설정한 원금만큼 가상의 돈이 조회가 됩니다.&lt;br /&gt;
+이 가상의 돈을 통해 주식거래를 하시면 됩니다.&lt;/p&gt;
 
 
     </content>

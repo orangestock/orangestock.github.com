@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>OrangeStock</title>
+  <generator uri="https://github.com/jekyll/jekyll">Jekyll v2.4.0</generator>
+    <icon>/apple-touch-icon-precomposed.png</icon>
+  <subtitle>How to invest in Stocks</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="/" rel="alternate" type="text/html"/>
+  <updated>2015-05-30T21:14:14+09:00</updated>
+  <id>/</id>
+  <author>
+    <name></name>
+    <uri>/</uri>
+    
+  </author>
+
+  
+  <entry>
+    <title>New Post4</title>
+    <link href="/new-post4/"/>
+    <updated>2015-05-28T00:00:00+09:00</updated>
+    <id>/new-post4</id>
+    <author>
+      <name></name>
+      <uri>/</uri>
+      
+    </author>
+    <content type="html">
+      
+      
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>New Post3</title>
+    <link href="/new-post3/"/>
+    <updated>2015-05-28T00:00:00+09:00</updated>
+    <id>/new-post3</id>
+    <author>
+      <name></name>
+      <uri>/</uri>
+      
+    </author>
+    <content type="html">
+      
+      
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>New Post2</title>
+    <link href="/new-post2/"/>
+    <updated>2015-05-28T00:00:00+09:00</updated>
+    <id>/new-post2</id>
+    <author>
+      <name></name>
+      <uri>/</uri>
+      
+    </author>
+    <content type="html">
+      
+      &lt;h1 id=&quot;section&quot;&gt;초보 주식 용어 설명&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cfile5.uf.tistory.com/image/2456CF3D53CE050A073E3E&quot; alt=&quot;초보 주식 용어&quot; /&gt;&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>What is stock</title>
+    <link href="/What%20is%20Stock/"/>
+    <updated>2015-05-28T00:00:00+09:00</updated>
+    <id>/What is Stock</id>
+    <author>
+      <name></name>
+      <uri>/</uri>
+      
+    </author>
+    <content type="html">
+      
+      &lt;h1 id=&quot;section&quot;&gt;주식이란?&lt;/h1&gt;
+
+&lt;p&gt;간단하게 &lt;strong&gt;주식&lt;/strong&gt; 이란 회사가 자본을 만들기 위해 회사의 권리 일부를 주는 단위입니다.&lt;/p&gt;
+
+&lt;p&gt;즉 주주들은 보유한주식수/회사가 발행한 주식수 만큼 회사에 권리를 행사 할 수 있다는 말 입니다.&lt;/p&gt;
+
+
+    </content>
+  </entry>
+  
+  
+</feed>

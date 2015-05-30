@@ -1,0 +1,22 @@
+# Site navigation links
+
+- title: Prior to beginning 
+  url: /prior-to-beginning/
+  excerpt: Strengthen the basics of stock
+  image: list_image.png
+
+- title: Articles
+  url: /articles/
+  excerpt: A collection of thoughts, inspiration, mistakes, and other minutia.
+  image: list_image1.jpg
+
+- title: Media
+  url: /Media/
+  excerpt: An archive of media posts, perfect for portfolios and galleries.
+  image: list_image2.jpg
+
+- title: About
+  url: /About/
+  excerpt: We are OrangeStock
+  image: list_image3.gif
+

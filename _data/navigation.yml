@@ -3,20 +3,20 @@
 - title: Prior To Beginning 
   url: /prior-to-beginning/
   excerpt: 주식의 기초를 배웁니다.
-  image: list_image.png
+  image: navi1.png
 
 - title: Articles
   url: /articles/
   excerpt: 주식관련 콘텐츠와 내용들을 다룹니다.
-  image: list_image1.jpg
+  image: navi2.png
 
 - title: Practicing
   url: /practicing/
   excerpt: 모의투자로 주식을 연습해봅니다.
-  image: list_image2.jpg
+  image: navi3.png
 
 - title: About
   url: /about/
   excerpt: We are OrangeStock.
-  image: list_image3.gif
+  image: navi4.png
 

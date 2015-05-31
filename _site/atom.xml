@@ -7,7 +7,7 @@
   <subtitle>How to invest in stocks</subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="/" rel="alternate" type="text/html"/>
-  <updated>2015-05-31T11:50:13+09:00</updated>
+  <updated>2015-05-31T15:37:22+09:00</updated>
   <id>/</id>
   <author>
     <name></name>
@@ -15,6 +15,95 @@
     
   </author>
 
+  
+  <entry>
+    <title>We Are OrangeStock</title>
+    <link href="/we-are-orangestock/"/>
+    <updated>2015-05-31T14:01:01+09:00</updated>
+    <id>/we-are-orangestock</id>
+    <author>
+      <name></name>
+      <uri>/</uri>
+      
+    </author>
+    <content type="html">
+      
+      &lt;h2 id=&quot;fieldsets-and-form-elements&quot;&gt;Fieldsets and Form Elements&lt;/h2&gt;
+&lt;fieldset&gt;
+	&lt;form&gt;
+		&lt;h2&gt;Form Element&lt;/h2&gt;
+		&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.&lt;/p&gt;
+		&lt;label for=&quot;text_field&quot;&gt;Text Field:&lt;/label&gt;
+		&lt;input type=&quot;text&quot; id=&quot;text_field&quot; autocomplete=&quot;off&quot; style=&quot;cursor: auto; background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAASCAYAAABSO15qAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3QsPDhss3LcOZQAAAU5JREFUOMvdkzFLA0EQhd/bO7iIYmklaCUopLAQA6KNaawt9BeIgnUwLHPJRchfEBR7CyGWgiDY2SlIQBT/gDaCoGDudiy8SLwkBiwz1c7y+GZ25i0wnFEqlSZFZKGdi8iiiOR7aU32QkR2c7ncPcljAARAkgckb8IwrGf1fg/oJ8lRAHkR2VDVmOQ8AKjqY1bMHgCGYXhFchnAg6omJGcBXEZRtNoXYK2dMsaMt1qtD9/3p40x5yS9tHICYF1Vn0mOxXH8Uq/Xb389wff9PQDbQRB0t/QNOiPZ1h4B2MoO0fxnYz8dOOcOVbWhqq8kJzzPa3RAXZIkawCenHMjJN/+GiIqlcoFgKKq3pEMAMwAuCa5VK1W3SAfbAIopum+cy5KzwXn3M5AI6XVYlVt1mq1U8/zTlS1CeC9j2+6o1wuz1lrVzpWXLDWTg3pz/0CQnd2Jos49xUAAAAASUVORK5CYII=); background-attachment: scroll; background-position: 100% 50%; background-repeat: no-repeat;&quot; /&gt;
+		&lt;label for=&quot;text_area&quot;&gt;Text Area:&lt;/label&gt;
+		&lt;textarea id=&quot;text_area&quot;&gt;&lt;/textarea&gt;
+		&lt;p&gt;
+			&lt;label for=&quot;select_element&quot;&gt;Select Element:&lt;/label&gt;
+			&lt;select name=&quot;select_element&quot;&gt;
+				&lt;optgroup label=&quot;Option Group 1&quot;&gt;
+					&lt;option value=&quot;1&quot;&gt;Option 1&lt;/option&gt;
+					&lt;option value=&quot;2&quot;&gt;Option 2&lt;/option&gt;
+					&lt;option value=&quot;3&quot;&gt;Option 3&lt;/option&gt;
+				&lt;/optgroup&gt;
+				&lt;optgroup label=&quot;Option Group 2&quot;&gt;
+					&lt;option value=&quot;1&quot;&gt;Option 1&lt;/option&gt;
+					&lt;option value=&quot;2&quot;&gt;Option 2&lt;/option&gt;
+					&lt;option value=&quot;3&quot;&gt;Option 3&lt;/option&gt;
+				&lt;/optgroup&gt;
+			&lt;/select&gt;
+		&lt;/p&gt;
+		&lt;p&gt;
+			&lt;label for=&quot;radio_buttons&quot;&gt;Radio Buttons:&lt;/label&gt;
+			&lt;label&gt;&lt;input type=&quot;radio&quot; class=&quot;radio&quot; name=&quot;radio_button&quot; value=&quot;radio_1&quot; /&gt;Radio 1&lt;/label&gt;
+			&lt;label&gt;&lt;input type=&quot;radio&quot; class=&quot;radio&quot; name=&quot;radio_button&quot; value=&quot;radio_2&quot; /&gt;Radio 2&lt;/label&gt;
+			&lt;label&gt;&lt;input type=&quot;radio&quot; class=&quot;radio&quot; name=&quot;radio_button&quot; value=&quot;radio_3&quot; /&gt;Radio 3&lt;/label&gt;
+		&lt;/p&gt;
+		&lt;p&gt;
+			&lt;label for=&quot;checkboxes&quot;&gt;Checkboxes:&lt;/label&gt;
+			&lt;label&gt;&lt;input type=&quot;checkbox&quot; class=&quot;checkbox&quot; name=&quot;checkboxes&quot; value=&quot;check_1&quot; /&gt;Checkbox 1&lt;/label&gt;
+			&lt;label&gt;&lt;input type=&quot;checkbox&quot; class=&quot;checkbox&quot; name=&quot;checkboxes&quot; value=&quot;check_2&quot; /&gt;Checkbox 2&lt;/label&gt;
+			&lt;label&gt;&lt;input type=&quot;checkbox&quot; class=&quot;checkbox&quot; name=&quot;checkboxes&quot; value=&quot;check_3&quot; /&gt;Checkbox 3&lt;/label&gt;
+		&lt;/p&gt;
+		&lt;p&gt;
+			&lt;label for=&quot;password&quot;&gt;Password:&lt;/label&gt;
+			&lt;input type=&quot;password&quot; class=&quot;password&quot; name=&quot;password&quot; autocomplete=&quot;off&quot; style=&quot;cursor: auto; background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAASCAYAAABSO15qAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3QsPDhss3LcOZQAAAU5JREFUOMvdkzFLA0EQhd/bO7iIYmklaCUopLAQA6KNaawt9BeIgnUwLHPJRchfEBR7CyGWgiDY2SlIQBT/gDaCoGDudiy8SLwkBiwz1c7y+GZ25i0wnFEqlSZFZKGdi8iiiOR7aU32QkR2c7ncPcljAARAkgckb8IwrGf1fg/oJ8lRAHkR2VDVmOQ8AKjqY1bMHgCGYXhFchnAg6omJGcBXEZRtNoXYK2dMsaMt1qtD9/3p40x5yS9tHICYF1Vn0mOxXH8Uq/Xb389wff9PQDbQRB0t/QNOiPZ1h4B2MoO0fxnYz8dOOcOVbWhqq8kJzzPa3RAXZIkawCenHMjJN/+GiIqlcoFgKKq3pEMAMwAuCa5VK1W3SAfbAIopum+cy5KzwXn3M5AI6XVYlVt1mq1U8/zTlS1CeC9j2+6o1wuz1lrVzpWXLDWTg3pz/0CQnd2Jos49xUAAAAASUVORK5CYII=); background-attachment: scroll; background-position: 100% 50%; background-repeat: no-repeat;&quot; /&gt;
+		&lt;/p&gt;
+		&lt;p&gt;
+			&lt;label for=&quot;file&quot;&gt;File Input:&lt;/label&gt;
+			&lt;input type=&quot;file&quot; class=&quot;file&quot; name=&quot;file&quot; /&gt;
+		&lt;/p&gt;
+		&lt;p&gt;
+			&lt;input class=&quot;btn&quot; type=&quot;submit&quot; value=&quot;Submit&quot; /&gt;
+		&lt;/p&gt;
+	&lt;/form&gt;
+&lt;/fieldset&gt;
+
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>실전모의투자강의</title>
+    <link href="/practicing/%EC%8B%A4%EC%A0%84%EB%AA%A8%EC%9D%98%ED%88%AC%EC%9E%90%EA%B0%95%EC%9D%98/"/>
+    <updated>2015-05-31T11:55:48+09:00</updated>
+    <id>/practicing/실전모의투자강의</id>
+    <author>
+      <name></name>
+      <uri>/</uri>
+      
+    </author>
+    <content type="html">
+      
+      &lt;h1 id=&quot;section&quot;&gt;[영웅문] 실전모의투자강의&lt;/h1&gt;
+
+&lt;!-- &lt;div class=&quot;fluid-width-video-wrapper&quot; style=&quot;padding-top: 56.25%;&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/watch?v=OmLELVv7td4&amp;feature=youtu.be&quot; frameborder=&quot;0&quot; id=&quot;fitvid459482&quot;&gt; &lt;/iframe&gt;&lt;/div&gt;
+ --&gt;
+&lt;!-- &lt;p align=&quot;middle&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/watch?v=OmLELVv7td4&amp;feature=youtu.be&quot;  frameborder=&quot;0&quot;&gt;이 브라우저는 iframe을 지원하지 않습니다&lt;/iframe&gt;&lt;/p&gt; --&gt;
+&lt;div class=&quot;fluid-width-video-wrapper&quot; style=&quot;padding-top: 56.25%;&quot;&gt;&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/OmLELVv7td4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+    </content>
+  </entry>
   
   <entry>
     <title>초보 주식 용어 설명</title>
@@ -47,7 +136,18 @@
     </author>
     <content type="html">
       
-      &lt;h2 id=&quot;section&quot;&gt;미수설정&lt;/h2&gt;
+      &lt;nav class=&quot;toc&quot;&gt;
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#section&quot;&gt;미수설정&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#section-1&quot;&gt;은행계좌와 증권계좌연동&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#section-2&quot;&gt;호가창 보기&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#section-3&quot;&gt;매수 및 매도방법&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#section-4&quot;&gt;모의투자&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/nav&gt;
+
+&lt;h2 id=&quot;section&quot;&gt;미수설정&lt;/h2&gt;
 &lt;p&gt;미수란 은행에 돈을 빌려 주식을 거래하고나서 특정기간내에 증권계좌에 미수 이율만큼 돈을 넣어야합니다.&lt;br /&gt;
 일종의 &lt;strong&gt;대출&lt;/strong&gt; 이라고 생각하시면됩니다.&lt;br /&gt;
 아무 설정 없이 거래를 할 경우 미수가 자동으로 체크 되기때문에 초보자들은 미수를 쓰는 경우가 많습니다.&lt;br /&gt;

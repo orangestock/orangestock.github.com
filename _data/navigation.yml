@@ -2,17 +2,17 @@
 
 - title: Prior To Beginning 
   url: /prior-to-beginning/
-  excerpt: Strengthen the basics of stock
+  excerpt: 주식의 기초를 배웁니다.
   image: list_image.png
 
 - title: Articles
   url: /articles/
-  excerpt: A collection of thoughts, inspiration, mistakes, and other minutia.
+  excerpt: 주식관련 콘텐츠와 내용들을 다룹니다.
   image: list_image1.jpg
 
-- title: Media
-  url: /media/
-  excerpt: An archive of media posts, perfect for portfolios and galleries.
+- title: Practicing
+  url: /Practicing/
+  excerpt: 모의투자로 주식을 연습해봅니다.
   image: list_image2.jpg
 
 - title: About

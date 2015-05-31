@@ -7,7 +7,7 @@
   <subtitle>How to invest in stocks</subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="/" rel="alternate" type="text/html"/>
-  <updated>2015-05-31T15:37:22+09:00</updated>
+  <updated>2015-05-31T16:10:35+09:00</updated>
   <id>/</id>
   <author>
     <name></name>
@@ -28,7 +28,7 @@
     </author>
     <content type="html">
       
-      &lt;h2 id=&quot;fieldsets-and-form-elements&quot;&gt;Fieldsets and Form Elements&lt;/h2&gt;
+      &lt;h3 id=&quot;fieldsets-and-form-elements&quot;&gt;Fieldsets and Form Elements&lt;/h3&gt;
 &lt;fieldset&gt;
 	&lt;form&gt;
 		&lt;h2&gt;Form Element&lt;/h2&gt;
@@ -106,10 +106,10 @@
   </entry>
   
   <entry>
-    <title>초보 주식 용어 설명</title>
-    <link href="/beginning/prior-to-beginning/"/>
+    <title>증권 투자시 매우 유용하게 쓰이는 사이트</title>
+    <link href="/beginning/prior-to-beginning4/"/>
     <updated>2015-05-31T03:52:35+09:00</updated>
-    <id>/beginning/prior-to-beginning</id>
+    <id>/beginning/prior-to-beginning4</id>
     <author>
       <name></name>
       <uri>/</uri>
@@ -117,9 +117,185 @@
     </author>
     <content type="html">
       
-      &lt;h1 id=&quot;section&quot;&gt;간단한 주식 용어 설명&lt;/h1&gt;
+      &lt;h2 id=&quot;section&quot;&gt;★증권 투자시 매우 유용하게 쓰이는 사이트 모음&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://cfile5.uf.tistory.com/image/2456CF3D53CE050A073E3E&quot; alt=&quot;초보 주식 용어&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;한국은행 경제통계 시스템 Ecos -【&lt;a href=&quot;http://ecos.bok.or.kr&quot;&gt;http://ecos.bok.or.kr&lt;/a&gt;】&lt;br /&gt;
+(금리, 물가, 자금순환, 환율, 국제수지/무역, 국민소득, 산업 및 고용, 기업경영분석, 기업경기 및 소비자동향, 산업연관표, 환경통계, 주요분석지표)&lt;/p&gt;
+
+&lt;p&gt;전자공시시스템 DART -【&lt;a href=&quot;http://dart.fss.or.kr&quot;&gt;http://dart.fss.or.kr&lt;/a&gt;】&lt;br /&gt;
+(최근 기업공시 및 공시서류 검색, 기업개황, 최근정정보고서, 최근삭제보고서)&lt;/p&gt;
+
+&lt;p&gt;실시간 환율 조회 Stooq -【&lt;a href=&quot;http://stooq.com/q/?s=usdkrw&amp;amp;c=1d&amp;amp;t=l&amp;amp;a=lg&amp;amp;b=0&quot;&gt;http://stooq.com/q/?s=usdkrw&amp;amp;c=1d&amp;amp;t=l&amp;amp;a=lg&amp;amp;b=0&lt;/a&gt;】&lt;br /&gt;
+(장중 실시간 환율 차트제공)&lt;/p&gt;
+
+&lt;p&gt;역외 환율 조회 - 【&lt;a href=&quot;http://www.xe.com&quot;&gt;http://www.xe.com&lt;/a&gt;】&lt;br /&gt;
+(역외가 환율)&lt;/p&gt;
+
+&lt;p&gt;미국 지표 조회 Forex Factory -【&lt;a href=&quot;http://www.forexfactory.com&quot;&gt;http://www.forexfactory.com&lt;/a&gt;】  &lt;/p&gt;
+
+&lt;p&gt;(미국 각종 지표 발표 서치)&lt;/p&gt;
+
+&lt;p&gt;미국증시 Stockcharts -【&lt;a href=&quot;http://stockcharts.com&quot;&gt;http://stockcharts.com&lt;/a&gt;】&lt;br /&gt;
+(각종 지표 및 미국 증권차트)&lt;/p&gt;
+
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>일반 주식 용어</title>
+    <link href="/beginning/prior-to-beginning3/"/>
+    <updated>2015-05-31T03:52:35+09:00</updated>
+    <id>/beginning/prior-to-beginning3</id>
+    <author>
+      <name></name>
+      <uri>/</uri>
+      
+    </author>
+    <content type="html">
+      
+      &lt;h1 id=&quot;section&quot;&gt;★일반 주식 용어&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;손절&lt;/strong&gt;
+투자의 기본으로 손절매라고도 하며 ‘손을 절단한다’는 것에서 유례되었다는 설도 있다. 매수한 주식이 일정 가격보다 낮아
+져 손실을 감수하고서라도 매도하여 향후 겪게되는 피해를 줄이는 것을 말한다. 손절은 보통 개인이 스스로 판단한 지지선
+을 기준으로 이루어 지며 초보자들이 많이 손해보는 이유중 하나가 바로 손절매선을 지키지 못해서 이다.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;보합&lt;/strong&gt;
+힘의 균형이 잡혀 주가의 변동폭이 적어진 상태를 말한다. 보통은 0.5%이내의 변동폭을 이르는 말이다.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;상한가&lt;/strong&gt;
+하루에 상승할 수 있는 제한 폭. 선물은 10%로 규정되어있고 현물은 15%로 규정되어있다.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;하한가&lt;/strong&gt;
+하루에 하락할 수 있는 제한 폭. 선물을 -10%로 규정되어있고 현물은 -15%로 규정되어있다.&lt;/p&gt;
+
+&lt;p&gt;주가수익비율(PER)** 주가 ÷ 1주당 예상순이익
+PER이 낮으면 주가가 저평가, PER가 높으면 고평가&lt;/p&gt;
+
+&lt;p&gt;주가순자산비율(PBR) = 주가 ÷ 1주당 자산
+기업의 수익성만으로 주가를 판단하는 척도&lt;/p&gt;
+
+&lt;p&gt;총자산수익률(ROA) = (이익 ÷ 총자산) × 100
+ROA가 높을수록 좋은회사&lt;/p&gt;
+
+&lt;p&gt;자기자본이익률(ROE) (당기순이익 ÷ 평균자기자본) × 100
+ROE가 높을수록 좋은회사&lt;/p&gt;
+
+&lt;p&gt;※평균 자기자본 산출법
+평균자기자본 = (전기 자기자본 + 당기 자기자본) ÷ 2&lt;/p&gt;
+
+&lt;p&gt;주당 예상순이익(EPS)&lt;/p&gt;
+
+&lt;p&gt;※주당 예상순이익(EPS) 산출법
+주당예상 순이익 = 예상 세후순이익 ÷ 발행주식수&lt;/p&gt;
+
+&lt;p&gt;※적정주가 산출법
+적정주가(기업의 가치) = 주당 예상 순이익 × 주가수익비율(PER)&lt;/p&gt;
+
+&lt;p&gt;에비타(EBITDA)
+영업이익 ＋ 감가상각비 등 비현금성 비용 ＋ 제세금
+세전기준 영업현금흐름을 나타냄&lt;/p&gt;
+
+&lt;p&gt;이브이(EV)
+시가총액 ＋ 순차입금(총차입금 － 현금 및 투자유가증권)
+기업가치로서, 시가총액에 순차입금을 더한것&lt;/p&gt;
+
+&lt;p&gt;이브이에비타(EV/EBITDA)
+(시가총액 ＋ 순차입금)/(영업이익 ＋ 감가상각비 등 비현금성비용 ＋ 제세금)
+기업이 현금을 창출해 낼 수 있는 능력이 시가총액에 비해 얼마나 평가되고 있는가를
+나타내는 지표로 현금흐름 배수라고 함&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;턴어라운드&lt;/strong&gt;
+기업실적이 극적으로 개선되는 종목을 가리키는 말. 주가가 재평가 받게 됨.
+개인이 턴어라운드의 정보를 접했을때는 이미 주가가 상승했을 가능성이 크다.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;골든크로스&lt;/strong&gt;
+단기 이동평균선이 중, 장기 이동평균선을 급속히 상향 돌파할 때.
+좋은 매수 신호이다. 매도는 당분간 보류하도록 하자.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;데드크로스&lt;/strong&gt;
+단기 이동평균선이 중, 장기 이동평균선을 급속히 하향 돌파할 때.
+나쁜 매도 신호이다. 매수는 당분간 보류하도록 하자.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;이격도&lt;/strong&gt;
+이동평균선과 비교하여 주가가 어느 수준에 있는지를 알아보는 분석기법.
+이격률 = (주가 ÷ n일 이동평균 지수) × 100&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;투자심리선&lt;/strong&gt;
+투자자들의 심리를 선으로 표현한 기법.
+투자심리선 = (최근 10일간 전일 대비 상승일수 ÷ 10일) × 100&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>기본 용어</title>
+    <link href="/beginning/prior-to-beginning2/"/>
+    <updated>2015-05-31T03:52:35+09:00</updated>
+    <id>/beginning/prior-to-beginning2</id>
+    <author>
+      <name></name>
+      <uri>/</uri>
+      
+    </author>
+    <content type="html">
+      
+      &lt;h1 id=&quot;section&quot;&gt;★기본용어&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;주식&lt;/strong&gt;
+기업의 입장 - 기업이 출자한 일정한 지분 또는 이를 나타내는 증권으로 기업이 회사를 주체로 배당받을 권리를 발행하여
+자금을 얻는것.
+투자자의 입장 - 자금을 투자해서 해당 회사가 성장하면 이익을 얻을수 있는 권리.(이익은 회사 성장과 절대적관점에서
+비례하는것이 아닌 주식 수급 현황에 따라 상대적이며 유동적임)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;코스피&lt;/strong&gt; KOSPI [Korea Composite Stock Price Index:한국 종합 주가 지수] 
+증권시장에 상장된 상장기업의 주식 변동을 기준시점과 비교시점을 비교하여 작성한 지표.&lt;/p&gt;
+
+&lt;p&gt;산출방법은 1980년 1월 4일을 기준시점으로 하여 이날의 종합주가지수를 100으로 정하고, 개별종목의 주가에 상장주식수
+를 가중한 기준시점의 시가총액과 비교시점의 시가총액을 대비하여 산출한다.
+즉, 종합주가지수=비교시점의 시가총액/기준시점의 시가총액×100으로 나타낸다.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;코스닥&lt;/strong&gt; KOSDAQ [Korea Securities Dealers Automated Quotation]
+전자거래시스템으로 운영되는 비주류 주식거래시장.&lt;/p&gt;
+
+&lt;p&gt;미국의 나스닥과 유사한 기능을 하는 중소, 벤처기업을 위한 증권시장으로 유가증권시장(코스피)의 하위 개념이지만 전자
+거래를 통한 매매가 코스피와 동일하여 많은 매매가 이루어 지고 있다. 코스닥 상장 기업중 실적과 성장성이 좋은 기업도
+많으나 부도위기의 기업이라던지 시가총액이 적어 투기와 인위적 호가조작등의 종목이 많음으로 투자에 유의하여야 한다.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;선물&lt;/strong&gt; - 관련 어록 : 선물을 하는 개미는 개미가 아니다.
+미래의 약속된 시기에 약속된 가격으로 자산을 이전하는 계약의 매매거래. 파생상품
+1계약당 거래되는 가격이 높고 거래를 위하여 습득해야 할 전문용어가 많으며 시장을 읽는 눈을 가져야 올바른 거래를 할
+수 있음으로 뉴비는 접근하지 않는것이 좋다.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;옵션&lt;/strong&gt; - 관련 어록 : 대박 혹은 쪽박
+특정 자산을 정해진 가격에 사고팔수 있는 권리를 가진 파생상품. ELW와 유사하다. 설명은 ELW와 동일함으로 주식워런트
+증권 참고.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;주식 워런트 증권&lt;/strong&gt; [ELW, Equity Linked Warrant]&lt;br /&gt;
+특정 주식을 미리 정한 가격에 살 수 있는 권리증서로, 만기에 특정종목의 주가나 주가지수를 미리 정한 가격에 사고 팔 수
+있는 권리가 부여된 상품으로 옵션과 유사하다.
+살 수 있는 권리는 &lt;code&gt;콜 워런트&lt;/code&gt;, 팔 수 있는 권리는 &lt;code&gt;풋 워런트&lt;/code&gt;이다.
+주식의 미래가치를 미리 사고파는 거래라고 할 수 있으며, 일반 주식투자에 비해 ‘고위험 고수익’ 이라는 특징을 갖는다.&lt;/p&gt;
+
+&lt;p&gt;쉽게 예를들자면 삼성전자 주식이 현재 50만원인데 주식이 1개월 뒤에 더 오를것 같다고 예상을 하자.
+그렇다면 1개월 뒤에 삼성전자 주식을 50만원에 살수있는 권리가 ‘콜 워런트’인데 이것을 산다.
+실제로 1개월 뒤에 삼성전자 주식이 55만원이 되었다면 50만원에 살수있는 권리를 행사하여 55만원짜리 주식을 50만원에
+살수있다. 즉 5만원의 이익을 취할 수 있는 이론이다.
+반대로 삼성전자 주식이 현재 50만원인데 주식이 1개월 뒤에 내릴것 같다고 예상을 하자.
+그렇다면 1개월 뒤에 삼성전자 주식을 50만원에 팔수있는 권리가 ‘풋 워런트’인데 이것을 산다.
+실제로 1개월 뒤에 삼성전자 주식이 45만원이 되었다면 50만원에 팔수있는 권리를 행사하여 45만원짜리 주식을 50만원에
+팔수있다. 즉 5만원의 이익을 취할 수 있는 이론이다.&lt;/p&gt;
+
+&lt;p&gt;하지만 ELW는 실제로 그 권리를 행사하는것이 아니라 그 권리를 발행한 금융회사가 만기시 손익을 계산하여 지급하는 현
+금결제방식(cash settlement)을 채택하고 있다.&lt;/p&gt;
+
+&lt;p&gt;물론 투자 도중 타임벨류에이션 측면에서의 프리미엄이라던지 LP호가미제시, 투기로인한 이론가 스포일등의 피해를 입을
+수 있고 예상이 빗나가 시장이 반대로 움직인다면 그만큼 손실을 입을수 있으니 투자에 유의하여야 한다.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;※LP&lt;/strong&gt;
+ELW에 호가를 제시하여 유동성을 공급해 주는 주체. 투자자들 사이에서는 이들이 호가를 스포일 하는 경우가 많아 원성이 자자한것으로 알려져 있다.&lt;/p&gt;
+
 
     </content>
   </entry>
@@ -136,24 +312,13 @@
     </author>
     <content type="html">
       
-      &lt;nav class=&quot;toc&quot;&gt;
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#section&quot;&gt;미수설정&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#section-1&quot;&gt;은행계좌와 증권계좌연동&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#section-2&quot;&gt;호가창 보기&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#section-3&quot;&gt;매수 및 매도방법&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#section-4&quot;&gt;모의투자&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;/nav&gt;
-
-&lt;h2 id=&quot;section&quot;&gt;미수설정&lt;/h2&gt;
+      &lt;h2 id=&quot;section&quot;&gt;미수설정&lt;/h2&gt;
 &lt;p&gt;미수란 은행에 돈을 빌려 주식을 거래하고나서 특정기간내에 증권계좌에 미수 이율만큼 돈을 넣어야합니다.&lt;br /&gt;
 일종의 &lt;strong&gt;대출&lt;/strong&gt; 이라고 생각하시면됩니다.&lt;br /&gt;
 아무 설정 없이 거래를 할 경우 미수가 자동으로 체크 되기때문에 초보자들은 미수를 쓰는 경우가 많습니다.&lt;br /&gt;
 이 기능은 초보자들에게는 적합하지 않다고 판단하여서 미리 미수를 못 쓰게 설정하는 방법을 알려 드리겠습니다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://postfiles3.naver.net/20150527_82/ktos5427_1432716644322YHIEk_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2015-05-13_%BF%C0%C0%FC_11.28.10.png?type=w3&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;메뉴-&amp;gt;고객서비스-&amp;gt;[0038] 증거금률변경안내-&amp;gt;증거금률 변경 신청  &lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://cfile206.uf.daum.net/image/135D714E503DA0EB024FA9&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -179,22 +344,23 @@ hts에서는 은행계좌에서 증권계좌로 입출금을 할수있습니다.
 
 &lt;h2 id=&quot;section-2&quot;&gt;호가창 보기&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://postfiles15.naver.net/20150527_142/ktos5427_1432716644548X0csY_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2015-05-13_%BF%C0%C8%C4_12.38.18.png?type=w3&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://download.kiwoom.com/hero3_help_new/img/0101-01.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;메뉴-&amp;gt;주식-&amp;gt;키움현재가&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;특정 종목의 코드를 입력 하면 해당하는 종목의 호가창이 나옵니다.(이쪽에서 코드 입력말고 기업을 검색하셔도 상관없습니다.)&lt;/li&gt;
-  &lt;li&gt;기업명이 나오게 됩니다.(쌍방울이라는 기업)  &lt;/li&gt;
-  &lt;li&gt;가격에 따른 매도 매물 입니다.  &lt;/li&gt;
-  &lt;li&gt;가격에 따른 매수 매물 입니다.  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;종목정보&lt;/strong&gt;&lt;br /&gt;
+조회 종목의 250일/ 25주 최고/ 최저가와 외국인보유 비율, 액면가, 대용가, 주식수, 시가총액, 자본금, 신용비율, 결산월 등의 종목 기본정보를 제공합니다.  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;호가창&lt;/strong&gt;&lt;br /&gt;
+조회 종목의 10단계 호가를 조회할 수 있는 호가창으로서 각 호가별 주문잔량을 수치뿐만 아니라 배경의 막대그래프로 표시하여 각 호가별 잔량 수준에 대한 직관적인 판단이 가능하도록 되어 있습니다.  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;거래원/투자자/뉴스/재무정보/체결/차트/일별/예상체결&lt;/strong&gt;&lt;br /&gt;
+상단의 탭을 이용하여 조회 종목의 거래원 현황, 투자자별 매매동향(종합), 종목뉴스, 조회 종목의 시간대별 체결 현황, 차트 및 일별 주가현황의 조회가 가능합니다.  &lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h2 id=&quot;section-3&quot;&gt;매수 및 매도방법&lt;/h2&gt;
 
-&lt;p&gt;메뉴-&amp;gt;주식-&amp;gt;키움주문&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://cfile4.uf.tistory.com/image/2244A63A52F507A724EBF3&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;p&gt;메뉴-&amp;gt;주식-&amp;gt;키움주문&lt;br /&gt;
+&lt;img src=&quot;http://cfile4.uf.tistory.com/image/2244A63A52F507A724EBF3&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
 키움주문 화면을 띄우면 위와 같이  화면이 나타나는데 “수량”과 “가격”을 입력하고 “현금매수” 버튼을 누르면 주문을 할 수 있습니다.  매도도 매수와 같은 방식으로 주문 해주시면 됩니다.&lt;/p&gt;
 
 &lt;h2 id=&quot;section-4&quot;&gt;모의투자&lt;/h2&gt;
@@ -206,6 +372,154 @@ hts에서는 은행계좌에서 증권계좌로 입출금을 할수있습니다.
 신청할 때 설정한 원금만큼 가상의 돈이 조회가 됩니다.&lt;br /&gt;
 이 가상의 돈을 통해 주식거래를 하시면 됩니다. &lt;/p&gt;
 
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>주식 부자들의 투자습관</title>
+    <link href="/articles/helplful/"/>
+    <updated>2015-05-31T02:22:49+09:00</updated>
+    <id>/articles/helplful</id>
+    <author>
+      <name></name>
+      <uri>/</uri>
+      
+    </author>
+    <content type="html">
+      
+      &lt;h2 id=&quot;section&quot;&gt;1. &lt;strong&gt;10년은 평균, 가능하면 영원히 보유한다.&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;워렌 버핏은 “내가 가장 좋아하는 주식 보유기간은 ‘영원히’이다”라고 말했다. 그가 투자한 종목은 대략 10년 정도 그의 손에서 떠나지 않았다. 평생, 아니 영원히 보유할 종목이 아니라면 아예 매수하지 않았다는 얘기다. 아무하고나 평생 살 수 없듯이 워렌 버핏은 주식도 그렇게 골랐다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cfs10.tistory.com/image/25/tistory/2009/02/07/23/32/498d9b89ad898&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;section-1&quot;&gt;2. &lt;strong&gt;폭락 앞에 의연하다.&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;1987년 미국 증시 붕괴를 정확히 예측하고 주식을 팔아치워 월스트리트에서 유명세를 떨친 일레인 가자렐리는 성공적인 투자 비결이 겁을 먹고 너무 빨리 주식을 팔아치우는 실수를 범하지 않는 것이라고 말했다. 시장이 하루에 200포인트 하락하면 개인투자자들은 대개 잔뜩 겁을 먹고 주식을 팔아치우지만 그 때가 바닥일 때가 많다. 단기 시황에 원칙이 흔들리거나 동요되면 안 된다.&lt;/p&gt;
+
+&lt;h2 id=&quot;section-2&quot;&gt;3. &lt;strong&gt;매도 원칙이 분명하다.&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;자신의 실수를 깨달았을 때, 투자한 회사가 더 이상 투자기준을 만족시키지 못할 때, 더 좋은 투자 대상을 발견했는데 신규 자금이 없을 때 매도한다. 필립 피셔가 제시한 이 세 가지 매도원칙은 가치투자자는 물론이고 대부분 투자 대가들이 가진 공통점이다.&lt;/p&gt;
+
+&lt;h2 id=&quot;section-3&quot;&gt;4. &lt;strong&gt;번 돈의 절반은 인출한다.&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;제시 리버모어는 초창기 투자 실패의 원인이 번 돈을 잘 관리하지 못한 데 있다고 판단했다. 그는 투자 원금이 두 배로 불어나면 그 중 절반을 인출해서 안전한 자산으로 옮겼다. 불어난 돈을 넣어 계좌에 넣어 두고 계속해서 거래를 하다가 파산하는 불행을 자초하면 곤란한다.&lt;/p&gt;
+
+&lt;h2 id=&quot;section-4&quot;&gt;5. &lt;strong&gt;잡초에는 물을 주지 않는다.&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;피터 린치는 분산 자체만을 위해 알지도 못하는 종목에 투자하는 것은 무익한 일이라고 잘라 말했다. 일반 투자자들이 빠지기 쉬운 함정이 바로 어리석은 분산투자이며, 맹목적인 분산투자는 잡초에도 쓸데없이 물을 주는 것과 같다고 봤다. 중요한 것은 보유 종목의 개수가 아니라는 얘기다.&lt;/p&gt;
+
+&lt;h2 id=&quot;section-5&quot;&gt;6. &lt;strong&gt;장차 2등이 될 10등 종목을 산다.&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;월스트리트의 유명한 펀드매니저인 포스터 프리스는 지금 10등이지만 앞으로 2등이 될 수 있는, 수익 창출 능력이 지금도 좋고 앞으로 더 좋아질 기업을 고를 것을 강조했다. 주가는 수익에 따라 움직이기 때문이다. 하지만 그는 1위 기업의 주식을 별로 좋아하지 않는다. 이미 주가가 너무 올라 투자매력이 떨어지기 때문이다.&lt;/p&gt;
+
+&lt;h2 id=&quot;section-6&quot;&gt;7. &lt;strong&gt;자신의 원칙을 목숨처럼 지킨다.&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;원칙을 세우는 것도 어렵지만 이를 지키는 것은 더 어렵다. 투자 대가들도 간혹 실패할 때가 있었는데 이는 원칙이 없었거나 원칙을 지키지 않았기 때문이었다. 뼈아픈 실패를 겪은 대가들은 자신의 원칙을 목숨처럼 지키며, 대표적인 인물은 단연 워렌 버핏이다. 그가 ‘닷컴’ 버블 때 인터넷 주식에 투자하지 않았던 것은 두고두고 회자됐다. 그는 잘할 수 있는 분야에만 투자한다는 원칙을 고집스럽게 지켰다.&lt;/p&gt;
+
+&lt;h2 id=&quot;section-7&quot;&gt;8. &lt;strong&gt;감정을 다스리고 이성으로 판단한다.&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;‘주식투자 절대불변의 법칙’의 저자인 마이클 신시어는 아무리 많은 것을 배운다 해도 감정을 통제할 수 없으면 결국 돈을 잃을 수밖에 없다고 강조했다. 감정을 통제하지 못하면 싸구려 주식, 단타 매매, 외상 매매, 특급 정보에 현혹돼 주식시장을 카지노 정도로 생각하는 도박꾼이 돼 버린다.&lt;/p&gt;
+
+&lt;h2 id=&quot;section-8&quot;&gt;9. &lt;strong&gt;투자와 인생을 가르쳐 줄 멘토가 있다.&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;투자는 기본적으로 고독하다. 역설적으로 투자 대가들은 끊임없이 누군가를 그리워했다는 말이다. 자신을 지키는 것은 남과 고립된 상황에서 나오는 것이 아니며, 그래서 멘토가 필요하다. 워렌 버핏은 자신이 부와 성공을 이룬 것에 대해 스승인 벤저민 그레이엄 덕분이라는 말을 곧잘 한다. 그는 벤저민 그레이엄의 ‘현명한 투자자’를 읽고 그에게 직접 배우기 위해 컬럼비아 대학에 들어갔고, 나중에는 그레이엄의 회사에 취직하기도 했다.&lt;/p&gt;
+
+&lt;h2 id=&quot;section-9&quot;&gt;10. &lt;strong&gt;실패에서 배운다.&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;투자 대가들도 초창기에는 많은 실패를 경험했다. 하지만 실패 원인을 철저히 분석하고 같은 실수를 되풀이하지 않았기 때문에 투자에 성공할 수 있었다. 벤저민 그레이엄도 1929년 대공항 때 돈을 모두 잃고 깡통 신세가 된 일이 있었다. 그는 대학에서 무엇이 잘못되었는지 검토하고 재평가하는 기회를 가졌고, 그 결과 ‘증권분석’이라는 걸작을 남겼다. 5년 동안 고객들의 원금을 회복할 때까지 돈을 받지 않고 일했고, 처절한 몸부림으로 원금을 회복한 그는 다시 손해를 보지 않았다.&lt;/p&gt;
+
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Prior To Beginning2</title>
+    <link href="/prior-to-beginning2/"/>
+    <updated>2015-05-31T00:00:00+09:00</updated>
+    <id>/prior-to-beginning2</id>
+    <author>
+      <name></name>
+      <uri>/</uri>
+      
+    </author>
+    <content type="html">
+      
+      &lt;h1 id=&quot;section&quot;&gt;★기본용어&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;주식&lt;/strong&gt;
+기업의 입장 - 기업이 출자한 일정한 지분 또는 이를 나타내는 증권으로 기업이 회사를 주체로 배당받을 권리를 발행하여
+자금을 얻는것.
+투자자의 입장 - 자금을 투자해서 해당 회사가 성장하면 이익을 얻을수 있는 권리.(이익은 회사 성장과 절대적관점에서
+비례하는것이 아닌 주식 수급 현황에 따라 상대적이며 유동적임)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;코스피&lt;/strong&gt; KOSPI [Korea Composite Stock Price Index:한국 종합 주가 지수] 
+증권시장에 상장된 상장기업의 주식 변동을 기준시점과 비교시점을 비교하여 작성한 지표.&lt;/p&gt;
+
+&lt;p&gt;산출방법은 1980년 1월 4일을 기준시점으로 하여 이날의 종합주가지수를 100으로 정하고, 개별종목의 주가에 상장주식수
+를 가중한 기준시점의 시가총액과 비교시점의 시가총액을 대비하여 산출한다.
+즉, 종합주가지수=비교시점의 시가총액/기준시점의 시가총액×100으로 나타낸다.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;코스닥&lt;/strong&gt; KOSDAQ [Korea Securities Dealers Automated Quotation]
+전자거래시스템으로 운영되는 비주류 주식거래시장.&lt;/p&gt;
+
+&lt;p&gt;미국의 나스닥과 유사한 기능을 하는 중소, 벤처기업을 위한 증권시장으로 유가증권시장(코스피)의 하위 개념이지만 전자
+거래를 통한 매매가 코스피와 동일하여 많은 매매가 이루어 지고 있다. 코스닥 상장 기업중 실적과 성장성이 좋은 기업도
+많으나 부도위기의 기업이라던지 시가총액이 적어 투기와 인위적 호가조작등의 종목이 많음으로 투자에 유의하여야 한다.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;선물&lt;/strong&gt; - 관련 어록 : 선물을 하는 개미는 개미가 아니다.
+미래의 약속된 시기에 약속된 가격으로 자산을 이전하는 계약의 매매거래. 파생상품
+1계약당 거래되는 가격이 높고 거래를 위하여 습득해야 할 전문용어가 많으며 시장을 읽는 눈을 가져야 올바른 거래를 할
+수 있음으로 뉴비는 접근하지 않는것이 좋다.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;옵션&lt;/strong&gt; - 관련 어록 : 대박 혹은 쪽박
+특정 자산을 정해진 가격에 사고팔수 있는 권리를 가진 파생상품. ELW와 유사하다. 설명은 ELW와 동일함으로 주식워런트
+증권 참고.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;주식 워런트 증권&lt;/strong&gt; [ELW, Equity Linked Warrant]&lt;br /&gt;
+특정 주식을 미리 정한 가격에 살 수 있는 권리증서로, 만기에 특정종목의 주가나 주가지수를 미리 정한 가격에 사고 팔 수
+있는 권리가 부여된 상품으로 옵션과 유사하다.
+살 수 있는 권리는 &lt;code&gt;콜 워런트&lt;/code&gt;, 팔 수 있는 권리는 &lt;code&gt;풋 워런트&lt;/code&gt;이다.
+주식의 미래가치를 미리 사고파는 거래라고 할 수 있으며, 일반 주식투자에 비해 ‘고위험 고수익’ 이라는 특징을 갖는다.&lt;/p&gt;
+
+&lt;p&gt;쉽게 예를들자면 삼성전자 주식이 현재 50만원인데 주식이 1개월 뒤에 더 오를것 같다고 예상을 하자.
+그렇다면 1개월 뒤에 삼성전자 주식을 50만원에 살수있는 권리가 ‘콜 워런트’인데 이것을 산다.
+실제로 1개월 뒤에 삼성전자 주식이 55만원이 되었다면 50만원에 살수있는 권리를 행사하여 55만원짜리 주식을 50만원에
+살수있다. 즉 5만원의 이익을 취할 수 있는 이론이다.
+반대로 삼성전자 주식이 현재 50만원인데 주식이 1개월 뒤에 내릴것 같다고 예상을 하자.
+그렇다면 1개월 뒤에 삼성전자 주식을 50만원에 팔수있는 권리가 ‘풋 워런트’인데 이것을 산다.
+실제로 1개월 뒤에 삼성전자 주식이 45만원이 되었다면 50만원에 팔수있는 권리를 행사하여 45만원짜리 주식을 50만원에
+팔수있다. 즉 5만원의 이익을 취할 수 있는 이론이다.&lt;/p&gt;
+
+&lt;p&gt;하지만 ELW는 실제로 그 권리를 행사하는것이 아니라 그 권리를 발행한 금융회사가 만기시 손익을 계산하여 지급하는 현
+금결제방식(cash settlement)을 채택하고 있다.&lt;/p&gt;
+
+&lt;p&gt;물론 투자 도중 타임벨류에이션 측면에서의 프리미엄이라던지 LP호가미제시, 투기로인한 이론가 스포일등의 피해를 입을
+수 있고 예상이 빗나가 시장이 반대로 움직인다면 그만큼 손실을 입을수 있으니 투자에 유의하여야 한다.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;※LP&lt;/strong&gt;
+ELW에 호가를 제시하여 유동성을 공급해 주는 주체. 투자자들 사이에서는 이들이 호가를 스포일 하는 경우가 많아 원성이 자자한것으로 알려져 있다.&lt;/p&gt;
+
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Prior To Beginning1</title>
+    <link href="/prior-to-beginning1/"/>
+    <updated>2015-05-31T00:00:00+09:00</updated>
+    <id>/prior-to-beginning1</id>
+    <author>
+      <name></name>
+      <uri>/</uri>
+      
+    </author>
+    <content type="html">
+      
+      &lt;h1 id=&quot;section&quot;&gt;간단한 주식 용어 설명&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cfile5.uf.tistory.com/image/2456CF3D53CE050A073E3E&quot; alt=&quot;초보 주식 용어&quot; /&gt;&lt;/p&gt;
 
     </content>
   </entry>

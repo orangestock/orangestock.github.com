@@ -10,7 +10,7 @@ image:
   teaser: stockteacher.jpg
   thumb:
 ads: false
-date: 2015-05-31T03:52:35+09:00
+date: 2015-05-31T04:33:35+09:00
 ---
 
 #★일반 주식 용어

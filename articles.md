@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Articles"
 date:
 permalink: /articles/ 
 modified:

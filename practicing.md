@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Practing"
+title: "Practicing"
 date: 
 permalink: /practicing/
 modified:

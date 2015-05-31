@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>/beginning/prior-to-beginning6/</loc>
+    <lastmod>2015-05-31T23:52:35+09:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>/beginning/prior-to-beginning4/</loc>
+    <lastmod>2015-05-31T23:52:35+09:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>/beginning/prior-to-beginning2/</loc>
+    <lastmod>2015-05-31T23:52:35+09:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>/beginning/prior-to-beginning5/</loc>
+    <lastmod>2015-05-31T23:51:35+09:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>/practicing/video3/</loc>
     <lastmod>2015-05-31T17:03:48+09:00</lastmod>
     <priority>0.8</priority>
@@ -51,16 +71,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>/beginning/prior-to-beginning4/</loc>
-    <lastmod>2015-05-31T03:52:35+09:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>/beginning/prior-to-beginning2/</loc>
-    <lastmod>2015-05-31T03:52:35+09:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>/articles/hts/</loc>
     <lastmod>2015-05-31T02:22:49+09:00</lastmod>
     <priority>0.8</priority>
@@ -82,31 +92,31 @@
   </url>
   <url>
     <loc>/about/</loc>
-    <lastmod>2015-05-31T17:40:39+09:00</lastmod>
+    <lastmod>2015-05-31T19:42:42+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/articles/</loc>
-    <lastmod>2015-05-31T17:40:39+09:00</lastmod>
+    <lastmod>2015-05-31T19:42:42+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/</loc>
-    <lastmod>2015-05-31T17:40:39+09:00</lastmod>
+    <lastmod>2015-05-31T19:42:42+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>/practicing/</loc>
-    <lastmod>2015-05-31T17:40:39+09:00</lastmod>
+    <lastmod>2015-05-31T19:42:42+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/prior-to-beginning/</loc>
-    <lastmod>2015-05-31T17:40:39+09:00</lastmod>
+    <lastmod>2015-05-31T19:42:42+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

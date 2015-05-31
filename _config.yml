@@ -6,6 +6,7 @@ logo: # 120x120 px default image used for Twitter summary card
 teaser: default_image.png
 locale:
 url:
+comments: true
 
 # Jekyll configuration
 
